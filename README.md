@@ -9,4 +9,4 @@ Although you need lot install lot of packages like PIL, urlib, requests and much
 
 You just need to have python installed version 3.7.
 
-tbh I know python is for making apps but I did that anyways don't make that mistake ;)
+tbh I know python is not good for making apps but I did that anyways don't make that mistake ;)
